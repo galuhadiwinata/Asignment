@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: River Bottom Left
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 385727043f43ad046af02c9f07e14820, type: 3}
+  - {fileID: 21300000, guid: d2874b24e019a134abe3f43c31443b06, type: 3}
+  - {fileID: 21300000, guid: e51730d28a2b3bb479c14b0b9be289ed, type: 3}
+  - {fileID: 21300000, guid: 17a7be0aec56e0044911ba05e1af9704, type: 3}
+  - {fileID: 21300000, guid: 5d0f8a6ff53bb6c44a25be7864c8cb6e, type: 3}
+  - {fileID: 21300000, guid: eb2ed24895f510843a57ba35a20dbc31, type: 3}
+  - {fileID: 21300000, guid: 9d207ba33bbdb114bb460507d6235d33, type: 3}
+  - {fileID: 21300000, guid: 3471fbbd574af554393293411321ec0b, type: 3}
+  - {fileID: 21300000, guid: f47cbcb914352af4c8b912a39e4b33ed, type: 3}
+  - {fileID: 21300000, guid: 070c5e1a758111d4bb2104a8ce0e4ca0, type: 3}
+  - {fileID: 21300000, guid: 9f5d7738dbadf264e9e9ee1317505b12, type: 3}
+  - {fileID: 21300000, guid: 890fcc5198e31f54498996e25b3b3646, type: 3}
+  - {fileID: 21300000, guid: 5bbacf4fb9a8be64eb621a6f8cf81cd1, type: 3}
+  - {fileID: 21300000, guid: 0b1fcbbf26b99514ca19484509dff953, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
